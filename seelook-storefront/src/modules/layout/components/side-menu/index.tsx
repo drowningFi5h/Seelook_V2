@@ -16,7 +16,7 @@ const SideMenuItems = {
   Cart: "/cart",
 }
 
-const SideMenu = ({ regions }: { regions: HttpTypes.StoreRegion[] | null }) => {
+const  SideMenu = ({ regions }: { regions: HttpTypes.StoreRegion[] | null }) => {
   const toggleState = useToggleState()
 
   return (
