@@ -20,6 +20,7 @@ module.exports = {
   			visibility: 'visibility',
   			padding: 'padding-top padding-right padding-bottom padding-left'
   		},
+
   		colors: {
   			grey: {
   				'0': '#FFFFFF',
@@ -103,6 +104,7 @@ module.exports = {
   		},
   		fontFamily: {
   			sans: [
+				'Poppins',
   				'Inter',
   				'-apple-system',
   				'BlinkMacSystemFont',

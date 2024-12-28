@@ -29,5 +29,6 @@ export default async function StorePage(props: Params) {
       page={page}
       countryCode={params.countryCode}
     />
+
   )
 }
