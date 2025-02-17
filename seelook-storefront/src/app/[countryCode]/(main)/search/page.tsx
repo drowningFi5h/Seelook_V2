@@ -2,7 +2,7 @@
 import React from 'react';
 import ProductSearch from '../../../../components/ProductSearch';
 
-const App = () => {
+const Search = () => {
   return (
     <div className={"h-screen w-screen"}>
       <ProductSearch />
@@ -10,4 +10,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default Search;
